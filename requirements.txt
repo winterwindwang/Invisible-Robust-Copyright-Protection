@@ -1,0 +1,7 @@
+ tqdm
+ boto3
+ requests
+ regex
+ sentencepiece
+ sacremoses
+pytorch-ignite
